@@ -1,0 +1,6 @@
+{
+  "name": "EliteWatches",
+  "description": "Premium timepieces designed for those who value elegance, performance, and sophistication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

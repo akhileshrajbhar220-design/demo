@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elitewatchespro-122.netlify.app/sitemap.xml
