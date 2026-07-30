@@ -6,7 +6,7 @@ export default function About() {
     <div className="py-16 md:py-24">
       {/* Header */}
       <div className="max-w-4xl mx-auto px-4 text-center mb-20">
-        <h1 className="font-display text-4xl md:text-6xl text-stone-900 mb-6">Our Story</h1>
+        <h2 className="font-display text-4xl md:text-6xl text-stone-900 mb-6">Our Story</h2>
         <div className="w-16 h-[1px] bg-stone-900 mx-auto mb-8"></div>
         <p className="text-lg text-stone-600 leading-relaxed max-w-2xl mx-auto">
           Founded with a passion for precision and design, EliteWatches was created to offer premium-quality watches that combine timeless elegance with modern innovation.
