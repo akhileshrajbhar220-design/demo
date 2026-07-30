@@ -56,7 +56,7 @@ export default function Products() {
     <div className="py-16 md:py-24 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       {/* Header */}
       <div className="text-center mb-16">
-        <h1 className="font-display text-4xl md:text-5xl text-stone-900 mb-6">Our Collection</h1>
+        <h2 className="font-display text-4xl md:text-5xl text-stone-900 mb-6">Our Collection</h2>
         <div className="w-16 h-[1px] bg-stone-900 mx-auto mb-8"></div>
         <p className="text-lg text-stone-600 max-w-2xl mx-auto">
           Explore our range of meticulously crafted timepieces, designed to suit every lifestyle and occasion.
