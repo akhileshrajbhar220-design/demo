@@ -52,7 +52,7 @@ export default function Blog() {
     <div className="py-16 md:py-24 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       {/* Header */}
       <div className="text-center mb-20">
-        <h1 className="font-display text-4xl md:text-6xl text-stone-900 mb-6">The Journal</h1>
+        <h2 className="font-display text-4xl md:text-6xl text-stone-900 mb-6">The Journal</h2>
         <div className="w-16 h-[1px] bg-stone-900 mx-auto mb-8"></div>
         <p className="text-lg text-stone-600 max-w-2xl mx-auto">
           Insights, guides, and stories from the world of horology and EliteWatches.
